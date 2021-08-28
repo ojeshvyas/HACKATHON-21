@@ -1,5 +1,7 @@
 # HACKATHON-21
-In Hackathon'21 we have created a project on web scraping.
+In Hackathon'21 which was started on 27 August 2021 and ends on 29 August 2021
+
+We have created a project on web scraping.
 
 
 Web scraping: A web scraper is a specialized tool designed to accurately and quickly extract data from a web page, we have applied this on rotten tomatoes.
